@@ -1,0 +1,16 @@
+# Gabriel Treichel
+# Fun fact: I am new to coding
+print(" GGG ")
+print("G   G")
+print("G    ")
+print("GGGGG")
+print("G   G")
+print("G   G")
+print(" GGG ")
+print("TTTTT")
+print("  T  ")
+print("  T  ")
+print("  T  ")
+print("  T  ")
+print("  T  ")
+print("  T  ")
